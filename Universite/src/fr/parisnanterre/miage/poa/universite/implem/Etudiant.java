@@ -9,6 +9,7 @@ public class Etudiant extends Personnel implements IBoursier {
     public Etudiant(String nom, String prenom, String numeroSecu, EchelonBourse echelon)
     {
         super(nom, prenom, numeroSecu);
+        this.echelon = echelon;
     }
 
     @Override
