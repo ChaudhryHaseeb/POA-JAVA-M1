@@ -35,6 +35,13 @@ public class RockPaperScissors
             return Result.LOOSE;
         }
 
+        if(p1 == p2)
+        {
+            return Result.TIE;
+        }
+
+
+
         return Result.LOOSE;
     }
 
