@@ -10,6 +10,9 @@
 #Mac
 .DS_Store
 
+#reports
+reports/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 

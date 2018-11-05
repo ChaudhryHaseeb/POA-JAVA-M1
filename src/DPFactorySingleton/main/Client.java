@@ -11,7 +11,7 @@ public class Client
         Factory f = Factory.getInstance();
         IProduct p = f.CreateProduct("en");
         p.showProduct();
-        
+
     }
 
 }
