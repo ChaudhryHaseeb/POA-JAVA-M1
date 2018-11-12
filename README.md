@@ -1,3 +1,8 @@
 # M1 Miage 2018-2019
 
-## Tous les dépôts de tous les tds de POA
+## Les Tds de POA du premier semestre
+
+* TDO
+* Université
+* RPS
+* DPFactorySingleton
